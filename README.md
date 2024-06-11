@@ -1,6 +1,6 @@
 <h1>Hi, I'm Cudjoe! <br/><a href="https://github.com/joshmadakor1">IT Support Analyst</a> / <a href="https://www.linkedin.com/in/joshmadakor/">Desktop Support Professional</a>
 
-<h2>👨‍💻 IT support Projects:</h2>
+<h2>👨‍💻 IT Support Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
     
