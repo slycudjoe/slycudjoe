@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sly Cudjoe! <br/><a href="https://github.com/joshmadakor1">IT Service Desk Analyst</a> / <a href="https://www.linkedin.com/in/joshmadakor/">Desktop Support Professional 💻☺</a>
+<h1>Hi, I'm Sly Cudjoe! <br/><a href="https://github.com/joshmadakor1">IT Service Desk Analyst</a> / <a href="https://www.linkedin.com/in/joshmadakor/">Desktop Support Professional 💻</a>
 
 <h2>👨‍💻 IT Service Desk / Helpdesk Projects:</h2>
 
