@@ -20,7 +20,7 @@
 
 - Microsoft IT Support Specialist Professional Certificate
 
-- The MS-900 Microsoft 365 Fundamentals certification
+- The MS-900 Microsoft 365 Certification
 
 <h2> 📄 Certifications:</h2>
 
