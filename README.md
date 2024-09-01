@@ -1,9 +1,26 @@
-<h1>Hi, I'm Sly Cudjoe! <br/><a href="https://github.com/joshmadakor1">IT Service Desk Analyst</a> / <a href="https://www.linkedin.com/in/joshmadakor/">Desktop Support Professional 💻</a>
+<h1> 👨‍💻 Information Technology Projects: </h1>
 
-<h2>👨‍💻 IT Service Desk / Helpdesk Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
+- [VirtualBox on an Apple Silicon Mac (M1 / M2 / M3)](https://github.com/slycudjoe/VirtualBox-on-Apple-Silicon)
+   
+- [Setting Up windows server 2019 on Oracle VirtualBox](https://github.com/slycudjoe/Setting-Up-windows-server-2019-on-Oracle-VirtualBox)
+
+
     
+<h2>👨‍💻 Upcoming Projects:</h2>
+
+- Active Directory Home Lab
+
+- First RaspberryPi Setup and build.
+
+<h2>🌱 I’m currently learning ...</h2>
+
+- Microsoft IT Support Specialist Professional Certificate
+
+- The MS-900 Microsoft 365 Fundamentals certification
 
 <h2> 📄 Certifications:</h2>
 
@@ -17,21 +34,26 @@
 
 
   
-
-    
-<h2>📺 My YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
   
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="SlyCudjoe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [linkedin]: https://www.linkedin.com/in/sylvester-yaw-cudjoe/
 
+
+
+
+
+
+
+
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="slyudjoe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**slycudjoe/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
